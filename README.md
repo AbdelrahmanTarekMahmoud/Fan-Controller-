@@ -1,7 +1,7 @@
 # Fan-Controller-
 A fan controller ,Which The State of Fan is Changed by The temperature effect (ON,OFF) , (Depennds on Temperature)
 
-# This project is based on the layered architecture
+# This project is based on the layered architecture model
 
 
 
