@@ -22,4 +22,4 @@ A fan controller ,Which The State of Fan is Changed by The temperature effect (O
             -PROTUES
             -ECLIPSE
 # Author    :
-            -abdelrhmantarekmahmoud@gmail.com
+            Abdelrahman Tarek -abdelrhmantarekmahmoud@gmail.com
