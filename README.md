@@ -10,7 +10,7 @@ A fan controller ,Which The State of Fan is Changed by The temperature effect (O
 
 
 
-# i used in this projects :
+# I Used in This Project ->
 # 1-DRIVERS :
             -ADC
             -LCD
