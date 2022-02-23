@@ -23,3 +23,5 @@ A fan controller ,Which The State of Fan is Changed by The temperature effect (O
             -ECLIPSE
 # Author    :
             Abdelrahman Tarek -abdelrhmantarekmahmoud@gmail.com
+# Tested With :
+              -Atmega32 Running at 1MHZ
