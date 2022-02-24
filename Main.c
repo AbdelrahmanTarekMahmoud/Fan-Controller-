@@ -37,7 +37,7 @@ int main() {
 			DcMotor_Rotate(state, speed);
 		} else if ((Temperature >= 30) && (Temperature < 60)) {
 			LCD_moveCursor(0, 7);
-			LCD_displayString("ON");
+			LCD_displayString("ON ");
 			LCD_moveCursor(1, 7);
 			LCD_intgerToString(Temperature);
 			state = CLOCK_WISE;
@@ -45,7 +45,7 @@ int main() {
 			DcMotor_Rotate(state, speed);
 		} else if ((Temperature >= 60) && (Temperature < 90)) {
 			LCD_moveCursor(0, 7);
-			LCD_displayString("ON");
+			LCD_displayString("ON ");
 			LCD_moveCursor(1, 7);
 			LCD_intgerToString(Temperature);
 			state = CLOCK_WISE;
@@ -53,7 +53,7 @@ int main() {
 			DcMotor_Rotate(state, speed);
 		} else if ((Temperature >= 90) && (Temperature < 120)) {
 			LCD_moveCursor(0, 7);
-			LCD_displayString("ON");
+			LCD_displayString("ON ");
 			LCD_moveCursor(1, 7);
 			LCD_intgerToString(Temperature);
 			state = CLOCK_WISE;
@@ -61,7 +61,7 @@ int main() {
 			DcMotor_Rotate(state, speed);
 		} else if (Temperature >= 120) {
 			LCD_moveCursor(0, 7);
-			LCD_displayString("ON");
+			LCD_displayString("ON ");
 			LCD_moveCursor(1, 7);
 			LCD_intgerToString(Temperature);
 			state = CLOCK_WISE;
